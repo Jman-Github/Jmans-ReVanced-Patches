@@ -1,4 +1,4 @@
-rootProject.name = "revanced-patches-template"
+rootProject.name = "Jmans-ReVanced-Patches"
 
 pluginManagement {
     repositories {
